@@ -2,17 +2,18 @@
 
 The problem revolves around the extraction of important data from pdf documents which can be used for analysis.
 
-Problem Statement
+## Problem Statement
 
 A company that deals with processing of patients’ health information gets these documents in pdf form from respective branches of the hospital. These agency needs to be able to extract information from these documents so that financial claims and analytics can be done on the extracted data. The extraction is done manually which result in the following issues:
 1)	Several staff member is needed
 2)	The process is slow and not easily scalable
 3)	It involves several financial expenses
 
-Proposed Solution
+## Proposed Solution
+
 The proposed solution involves the development of a program that is capable of extracting important text information from pdf files of patients in an hospital. A built FastAPI was included which will allow third party software to consume the extracted field or exported via JSON format and imported into excel for analysis
 
-Key Steps
+## Key Steps
 
 •	Three different patients’ documents type would be passed into the program for information extraction. The information extracted for each of the documents vary depending on the document type
 
