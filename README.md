@@ -43,7 +43,15 @@ Sample of patient’s “invoice” document extraction
 
 
 
+
+
 Sample of “Prescription” pdf document for a patient
  
 ![image](https://user-images.githubusercontent.com/71553115/194100731-d1c17df9-5ae0-4ca7-862b-e43e8acd9cef.png)
+
+## Conclusion
+
+This extraction can be used for multiple pdf document of specific type and either consumed once at a time by the in-house software or exported into excel file for further data analysis.
+
+
 
