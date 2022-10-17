@@ -2,6 +2,8 @@
 
 The problem revolves around the extraction of important data from pdf documents which can be used for analysis.
 
+Note: Important folders in this directory includes src, resources, and test. src contains the codes for this program and it has readme to understand its' files
+
 ## Problem Statement
 
 A company that deals with processing of patients’ health information gets these documents in pdf form from respective branches of the hospital. These agency needs to be able to extract information from these documents so that financial claims and analytics can be done on the extracted data. The extraction is done manually which result in the following issues:
