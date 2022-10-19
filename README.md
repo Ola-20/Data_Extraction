@@ -60,7 +60,7 @@ This extraction can be used for multiple pdf document of specific type and eithe
 
 
 
-Ola Akinbola: Data Scientist | Data Analyst
+_Ola Akinbola: Data Scientist | Data Analyst_
 
 
 
