@@ -58,6 +58,8 @@ Sample of “Prescription” pdf document for a patient
 
 This extraction can be used for multiple pdf document of specific type and either consumed once at a time by the in-house software or exported into excel file for further data analysis.
 
+
+
 Ola Akinbola: Data Scientist | Data Analyst
 
 (Open to Opportunities)
