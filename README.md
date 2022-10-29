@@ -7,7 +7,7 @@ Note: Important folders in this directory includes src, resources, and test. src
 ## Problem Statement
 
 A company that deals with processing of patients’ health information gets these documents in pdf form from respective branches of the hospital. These agency needs to be able to extract information from these documents so that financial claims and analytics can be done on the extracted data. The extraction is done manually which result in the following issues:
-1)	Several staff member is needed
+1)	Several staff members are needed
 2)	The process is slow and not easily scalable
 3)	It involves several financial expenses
 
